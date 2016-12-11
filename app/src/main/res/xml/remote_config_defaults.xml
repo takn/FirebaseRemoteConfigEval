@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?><!-- START xml_defaults -->
+<defaultsMap>
+    <entry>
+        <key>brandName</key>
+        <value>This locally defined app default name</value>
+    </entry>
+    <entry>
+        <key>programService</key>
+        <value>http://default.in-app.service.endpoint</value>
+    </entry>
+
+</defaultsMap><!-- END xml_defaults -->
